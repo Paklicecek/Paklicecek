@@ -26,7 +26,7 @@
 ### 💻 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,php,cs,figma,vscode,git,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,php,cs,figma,vscode&perline=8" />
 </div>
 
 ---
