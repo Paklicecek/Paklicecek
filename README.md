@@ -28,11 +28,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,php,cs,figma,vscode&perline=8" />
 </div>
-
----
-
-### 📈 GitHub Analytics
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Paklicecek&theme=tokyonight&hide_border=true&border_radius=5&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_current_streak=true&card_width=800" />
-</div>
