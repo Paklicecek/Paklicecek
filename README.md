@@ -18,7 +18,7 @@
 ### 🧐 About Me
 
 - 💼 **Current Project:** Ward.GG simple league of legend statistics site similar to U.GG powered by `PHP`.
-- 🌱 **Current Focus:** Improving my skills.
+- 🌱 **Current Focus:** Improving my skills, and to learn React with Tailwind CSS.
 - 🎯 **Goal:** To build seamless web experiences with clean code.
 
 ---
