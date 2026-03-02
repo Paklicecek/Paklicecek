@@ -17,8 +17,8 @@
 
 ### 🧐 About Me
 
-- 💼 **Current Project:** A live chatting application powered by `Node.js` and `Socket.io`.
-- 🌱 **Current Focus:** Learning backend development.
+- 💼 **Current Project:** Ward.GG simple league of legend statistics site similar to U.GG powered by `PHP`.
+- 🌱 **Current Focus:** Improving my skills.
 - 🎯 **Goal:** To build seamless web experiences with clean code.
 
 ---
